@@ -57,8 +57,5 @@ public class Book {
         this.generoum = generoum;
     }
 
-    
 
-
-    
 }
